@@ -4,7 +4,7 @@
 - 晩ごはんを考える負担を減らすWEBサイト
 
 ## ③アプリのデプロイURL
-
+- https://kaorikond.github.io/kadai01_janken/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - なし
